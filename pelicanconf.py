@@ -19,7 +19,7 @@ TRANSLATION_FEED_ATOM = None
 THEME = 'themes/pure-single'
 OUTPUT_PATH = 'output'
 PATH = 'content'
-COVER_IMG_URL = 'http://37.media.tumblr.com/3f5e020616067de43babe239328274a2/tumblr_mvy15aFi9v1rt9kxoo1_500.gif'
+COVER_IMG_URL = 'images/stairs.jpg'
 
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
