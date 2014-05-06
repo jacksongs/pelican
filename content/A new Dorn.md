@@ -11,7 +11,7 @@ In the digital arena words and pictures flitter down news feeds, buried under th
 
 I have blogged before. On Tumblr. On Wordpress. Heck, I'm even a listed contributor to the most excellent Django-based CMS Mezzanine.
 
-Each platform has proven temporary, so it's time for a change. I'm going to retain a record of all content good enough to publish in Markdown format and publish it using the Python-powered static site generator Pelican. 
+Each platform has proven temporary, so it's time for a change. I'm going to retain a record of all content interesting enough to me to publish in Markdown format and publish it using the Python-powered static site generator Pelican. 
 
 I'm going to store it like I would my high school essays, on file, and, like I would my optimistic attempts to create real-time sports data web projects, on Github.
 
