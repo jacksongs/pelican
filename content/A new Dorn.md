@@ -1,5 +1,5 @@
 Title: A new Dorne
-Date: 2014-05-05 11:42
+Date: 2014-05-05 20:42
 Category: web
 Tags: pelican, github, wordpress, mezzanine, tumblr, markdown
 Author: jacksongs
@@ -7,7 +7,7 @@ Summary: Why Pelican is best for blogging forever, plus Game of Thrones.
 
 As a journalist, the words, pictures and videos I create are my currency.
 
-In the digital arena words and pictures flitter down news feeds, buried under the weight of the watermarked fight images and reddit-driven nattering.
+In the digital arena words and pictures flitter down news feeds, buried under the weight of watermarked fight scenes and reddit-driven ranting.
 
 I have blogged before. On Tumblr. On Wordpress. Heck, I'm even a listed contributor to the most excellent Django-based CMS Mezzanine.
 
@@ -25,8 +25,10 @@ Having my life's work on a postgres database on a Digital Ocean, Heroku or Webfa
 
 On the other hand no one was going to read this post if it was sitting on a folder on my hard drive (apart from government spies).
 
-I'm a Python person, so Pelican made sense. Plus, Pelican has got great integration with iPython Notebooks. Most importantly, peer pressue is powerful, and dudes like [Rob Story](http://wrobstory.github.io/) use it.
+I'm a Python person, so Pelican made sense. Plus, Pelican offers great integration with iPython Notebooks. Most importantly, peer pressue is powerful, and dudes like [Rob Story](http://wrobstory.github.io/) use it.
 
-And because I need a bit of a traffic leg up, here's a photo of that new dude from Dorne in season four of Game of Thrones: 
+And because I need a bit of a traffic leg up, here's a photo of that new dude from Dorne in season four of Game of Thrones, Super Mario*: 
 
 ![Dornish dude](http://static.squarespace.com/static/52fc05c9e4b08fc45bd99090/t/534313fce4b00493c5010752/1396904959766/)
+
+*almost certainly not his name.
