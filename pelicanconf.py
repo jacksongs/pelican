@@ -38,3 +38,10 @@ DEFAULT_PAGINATION = 7
 
 GOOGLE_ANALYTICS = 'UA-33090301-1'
 DISQUS_SITENAME = 'jacksongs'
+
+PLUGIN_PATH = 'pelican-plugins'
+PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
+           'liquid_tags.youtube', 'liquid_tags.vimeo',
+           'liquid_tags.include_code', 'liquid_tags.notebook']
+
+EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8')

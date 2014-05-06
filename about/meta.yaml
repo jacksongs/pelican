@@ -1,0 +1,80 @@
+package:
+  name: about
+  version: !!str 0.2.1
+
+source:
+  fn: about-0.2.1.tar.gz
+  url: https://pypi.python.org/packages/source/a/about/about-0.2.1.tar.gz
+  md5: 592c97678a670dc2dca180b6d6c85023
+#  patches:
+   # List any patch files here
+   # - fix.patch
+
+# build:
+  #preserve_egg_dir: True
+  #entry_points:
+    # Put any entry points (scripts to be generated automatically) here. The
+    # syntax is module:function.  For example
+    #
+    # - about = about:main
+    #
+    # Would create an entry point called about that calls about.main()
+
+
+  # If this is a new build for the same version, increment the build
+  # number. If you do not include this key, it defaults to 0.
+  # number: 1
+
+requirements:
+  build:
+    - python
+    - setuptools
+    - s
+    - e
+    - t
+    - u
+    - p
+    - t
+    - o
+    - o
+    - l
+    - s
+
+  run:
+    - python
+    - s
+    - e
+    - t
+    - u
+    - p
+    - t
+    - o
+    - o
+    - l
+    - s
+
+test:
+  # Python imports
+  imports:
+    - about
+
+  #commands:
+    # You can put test commands to be run here.  Use this to test that the
+    # entry points work.
+
+
+  # You can also put a file called run_test.py in the recipe that will be run
+  # at test time.
+
+  # requires:
+    # Put any additional test requirements here.  For example
+    # - nose
+
+about:
+  home: UNKNOWN
+  license: 
+  summary: 'About - Metadata for Setuptools'
+
+# See
+# http://docs.continuum.io/conda/build.html for
+# more information about meta.yaml
