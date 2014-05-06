@@ -35,3 +35,6 @@ DEFAULT_PAGINATION = 7
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+GOOGLE_ANALYTICS = 'UA-33090301-1'
+DISQUS_SITENAME = 'jacksongs'
