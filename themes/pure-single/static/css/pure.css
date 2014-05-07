@@ -265,6 +265,9 @@ pre {
     position: relative;
 }
 @media (max-width: 767px) {
+    body {
+        padding:0;
+    }
     .sidebar {
         width: 100%;
         position: relative;
