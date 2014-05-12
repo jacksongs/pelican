@@ -64,9 +64,9 @@ pre {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    -webkit-box-shadow: inset -1px 0 0 rgba(0,0,0,0.3);
-    -moz-box-shadow: inset -1px 0 0 rgba(0,0,0,0.3);
-    box-shadow: inset -1px 0 0 rgba(0,0,0,0.3);
+    -webkit-box-shadow: inset -1px 0 0 rgba(255,255,255,0.3);
+    -moz-box-shadow: inset -1px 0 0 rgba(255,255,255,0.3);
+    box-shadow: inset -1px 0 0 rgba(255,255,255,0.3);
 }
 
 .cover-body {
@@ -110,7 +110,6 @@ pre {
 }
 
 .brand-main a {
-    text-transform: uppercase;
     text-decoration: none;
     margin-left: 15px;
     font-size: 25px;

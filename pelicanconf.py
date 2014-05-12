@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Jackson Gothe-Snape'
 SITENAME = u'jackson.gs'
-SITEURL = 'http://jackson.gs'
+SITEURL = ''
 DELETE_OUTPUT_DIRECTORY = False
 
 PROFILE_IMG_URL = 'https://pbs.twimg.com/profile_images/378800000813480994/1487341b80b9053dd39c103a7ca51eef.png'
@@ -35,7 +35,7 @@ MENUITEMS = (('About', 'pages/about-jackson.html'),)
 #          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL =     (('github', 'https://github.com/jacksongs/'),('twitter-square', 'https://twitter.com/jacksongs'),)
+SOCIAL =     (('github', 'https://github.com/jacksongs/'),('twitter-square', 'https://twitter.com/jacksongs'),('linkedin', 'https://au.linkedin.com/in/jacksongs'),)
 
 TWITTER_USERNAME = 'jacksongs'
 GITHUB_URL = 'https://github.com/jacksongs/'
