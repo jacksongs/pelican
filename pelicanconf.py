@@ -37,9 +37,6 @@ MENUITEMS = (('About', 'pages/about-jackson.html'),)
 # Social widget
 SOCIAL =     (('github', 'https://github.com/jacksongs/'),('twitter-square', 'https://twitter.com/jacksongs'),('linkedin', 'https://au.linkedin.com/in/jacksongs'),)
 
-TWITTER_USERNAME = 'jacksongs'
-GITHUB_URL = 'https://github.com/jacksongs/'
-
 DEFAULT_PAGINATION = 7
 
 # Uncomment following line if you want document-relative URLs when developing
