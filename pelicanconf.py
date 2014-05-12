@@ -28,6 +28,7 @@ DISPLAY_PAGES_ON_MENU = True
 
 MENUITEMS = (('About', 'pages/about-jackson.html'),)
 
+
 # Blogroll
 #LINKS =  (('About', '/pages/about-jackson.html'),)
 #          ('Python.org', 'http://python.org/'),
