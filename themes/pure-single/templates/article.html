@@ -3,11 +3,11 @@
 {% block title %}{{ article.title|striptags }} // {{ super() }}{% endblock title %}
 
 {% block head_css %}
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/pygments.css">
+    <link rel="stylesheet" href="http://jackson.gs/theme/css/pygments.css">
 {% endblock %}
 
 {% block head_js %}
-    <script src="{{ SITEURL }}js/jquery.fitvids.js"></script>
+    <script src="http://jackson.gs/theme/js/jquery.fitvids.js"></script>
     <script>
         $(document).ready(function(){
             $(".content").fitVids();

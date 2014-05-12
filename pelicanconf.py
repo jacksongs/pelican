@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Jackson Gothe-Snape'
 SITENAME = u'jackson.gs'
-SITEURL = ''
+SITEURL = 'http://jackson.gs'
 DELETE_OUTPUT_DIRECTORY = False
 
 PROFILE_IMG_URL = 'https://pbs.twimg.com/profile_images/378800000813480994/1487341b80b9053dd39c103a7ca51eef.png'
