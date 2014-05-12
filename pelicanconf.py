@@ -63,4 +63,4 @@ PLUGINS = ['related_posts','liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
            'liquid_tags.include_code', 'liquid_tags.notebook','sitemap']
 
-EXTRA_HEADER = open("http://jackson.gs/theme/other/_nb_header.html").read().decode('utf-8')
+EXTRA_HEADER = open("http://jackson.gs/theme/_nb_header.html").read().decode('utf-8')
