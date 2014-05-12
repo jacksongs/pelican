@@ -35,6 +35,13 @@
                 </header>
             </section>
             {{ article.content }}
+            {% if article.related_posts %}
+                <ul>
+                {% for related_post in article.related_posts %}
+                    <li>{{ related_post }}</li>
+                {% endfor %}
+                </ul>
+            {% endif %}
             <a href="#" class="go-top">Go Top</a>
             {% include 'disqus.html' %}
             {% include 'footer.html' %}

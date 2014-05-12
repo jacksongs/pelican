@@ -45,9 +45,23 @@ DEFAULT_PAGINATION = 7
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
+
 PLUGIN_PATH = 'pelican-plugins'
-PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
+PLUGINS = ['related_posts','liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
-           'liquid_tags.include_code', 'liquid_tags.notebook']
+           'liquid_tags.include_code', 'liquid_tags.notebook','sitemap']
 
 EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8')
