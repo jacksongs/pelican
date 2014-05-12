@@ -35,6 +35,7 @@ MENUITEMS = (('About', 'pages/about-jackson.html'),)
 #          ('You can modify those links in your config file', '#'),)
 
 # Social widget
+
 SOCIAL =     (('github', 'https://github.com/jacksongs/'),('twitter-square', 'https://twitter.com/jacksongs'),('linkedin', 'https://au.linkedin.com/in/jacksongs'),)
 
 DEFAULT_PAGINATION = 7
