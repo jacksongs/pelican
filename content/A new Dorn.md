@@ -33,7 +33,7 @@ I'm a Python person, so Pelican made sense. Plus, Pelican offers great integrati
 
 So that's that. 
 
-Game of Thrones? Well I thought I'd mention that because I need a bit of a traffic leg up. So as not to disappoint, here's a photo of that new dude from Dorne in season four of Game of Thrones, Super Mario*: 
+Game of Thrones? Well how else am I going to convince you to read 300 words of drivel? So as not to disappoint, here's a photo of that new dude from Dorne in season four of Game of Thrones, Super Mario*: 
 
 ![Dornish dude](http://static.squarespace.com/static/52fc05c9e4b08fc45bd99090/t/534313fce4b00493c5010752/1396904959766/)
 

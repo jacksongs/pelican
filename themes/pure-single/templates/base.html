@@ -31,6 +31,12 @@
     {% block head_css %}{% endblock %}
 
     <script src="http://jackson.gs/theme/js/jquery.min.js"></script>
+    <script src="http://jackson.gs/theme/js/jquery.fitvids.js"></script>
+    <script>
+        $(document).ready(function(){
+            $(".content").fitVids();
+        });
+    </script>
     {% block head_js %}{% endblock %}
 </head>
 
