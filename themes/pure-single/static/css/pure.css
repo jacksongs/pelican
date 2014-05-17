@@ -303,20 +303,5 @@ pre {
         background-position: 0;
     }
 }
-/* extra stuff*/
-
-.prompt {
-    display: none;
-}
-
-div.output_subarea {
-    padding: 0;
-}
-
-div.input_area {
-    border: 0;
-    border-radius: 0;
-    padding: 0.5em;
-}
 
 
