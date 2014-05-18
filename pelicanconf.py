@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import random
 
 AUTHOR = u'Jackson Gothe-Snape'
 SITENAME = u'jackson.gs'
@@ -23,6 +24,8 @@ OUTPUT_PATH = 'output/'
 PATH = None
 PAGE_DIR = 'pages'
 COVER_IMG_URL = 'http://jackson.gs/images/stairs.jpg'
+tags = ["Nobody's home","Nope unintended","Vanity fare"]
+#TAGLINE = random.choice(tags)
 
 DISPLAY_PAGES_ON_MENU = True
 
