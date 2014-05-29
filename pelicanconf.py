@@ -5,8 +5,6 @@ import random
 
 AUTHOR = u'Jackson Gothe-Snape'
 SITENAME = u'jackson.gs'
-SITEURL = 'http://jackson.gs'
-DELETE_OUTPUT_DIRECTORY = False
 
 PROFILE_IMG_URL = 'https://pbs.twimg.com/profile_images/378800000813480994/1487341b80b9053dd39c103a7ca51eef.png'
 
@@ -62,7 +60,7 @@ SITEMAP = {
 }
 
 PLUGIN_PATH = 'pelican-plugins'
-PLUGINS = ['related_posts','liquid_tags.img', 'liquid_tags.video',
+PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
            'liquid_tags.include_code', 'liquid_tags.notebook','sitemap']
 

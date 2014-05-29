@@ -1,4 +1,4 @@
-Title: Dabbling in data science - chapter I
+Title: Dabbling in data science
 Date: 2014-05-18 13:42
 Category: data science
 Tags: harvard, python, cs109
@@ -23,6 +23,6 @@ So after chatting with an associate, I've decided to seek more formal data analy
 
 There appear to be many great, free resources available on the web that promise to teach data science, mining and analysis.
 
-I have settled on the [CS109 Data Science course offered by Harvard](http://cs109.org/). All the lectures are published online, it has an extensive reading list, and it uses Python - my programming language of choice.
+I have settled on the [CS109 Data Science course offered by Harvard](http://cs109.org/). All the lectures are published online, it has an extensive reading list, it seems to be targeted to both undergrad and grad students and it uses Python - my programming language of choice.
 
 I look forward to sharing my notes and IPython notebooks about the course in coming weeks and months.
