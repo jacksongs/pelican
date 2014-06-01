@@ -1,10 +1,10 @@
 .highlight-ipynb .hll { background-color: #515151 }
 .highlight-ipynb  { background: #2d2d2d; color: #cccccc }
-.highlight-ipynb .c { color: #999999 } /* Comment */
+.highlight-ipynb .c { color: #000 } /* Comment */
 .highlight-ipynb .err { color: #f2777a } /* Error */
 .highlight-ipynb .k { color: #cc99cc } /* Keyword */
 .highlight-ipynb .l { color: #f99157 } /* Literal */
-.highlight-ipynb .n { color: #cccccc } /* Name */
+.highlight-ipynb .n { color: #777777 } /* Name */
 .highlight-ipynb .o { color: #66cccc } /* Operator */
 .highlight-ipynb .p { color: #cccccc } /* Punctuation */
 .highlight-ipynb .cm { color: #999999 } /* Comment.Multiline */
