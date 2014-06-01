@@ -29,7 +29,6 @@ DISPLAY_PAGES_ON_MENU = True
 
 MENUITEMS = (('About', 'pages/about-jackson.html'),)
 
-
 # Blogroll
 #LINKS =  (('About', '/pages/about-jackson.html'),)
 #          ('Python.org', 'http://python.org/'),
@@ -37,10 +36,9 @@ MENUITEMS = (('About', 'pages/about-jackson.html'),)
 #          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-
 SOCIAL =     (('github', 'https://github.com/jacksongs/'),('twitter-square', 'https://twitter.com/jacksongs'),('linkedin', 'https://au.linkedin.com/in/jacksongs'),)
 
-DEFAULT_PAGINATION = 7
+DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
