@@ -28,7 +28,6 @@ a:focus {
 pre {
     padding: 15px 15px 15px 15px;
     font-size: 90%;
-    box-shadow: 2px 2px 2px #888;
 }
 
 .sidebar {
@@ -327,4 +326,3 @@ span {
 div.output_png img {
     width:100%;
 }
-
