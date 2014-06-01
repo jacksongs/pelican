@@ -324,3 +324,6 @@ span {
     font-family:"Lato",Calibri, sans-serif;
 }
 
+div.output_png img {
+    width:100%;
+}
