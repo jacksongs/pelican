@@ -6,7 +6,7 @@ import random
 AUTHOR = u'Jackson Gothe-Snape'
 SITENAME = u'jackson.gs'
 
-PROFILE_IMG_URL = 'https://pbs.twimg.com/profile_images/378800000813480994/1487341b80b9053dd39c103a7ca51eef.png'
+PROFILE_IMG_URL = 'https://pbs.twimg.com/profile_images/481276208429027328/-f6hcZrf_400x400.png'
 
 TIMEZONE = 'Australia/Canberra'
 
